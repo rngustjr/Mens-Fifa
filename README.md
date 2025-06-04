@@ -22,22 +22,34 @@ Qualification pathway tracking
 
 Repository Structure
 
-Plain Text
+
 
 
 worldcup2026/
 ├── data/
+
 │   ├── coaches/       # Coach profiles and historical success rates
+
 │   ├── matches/       # Match statistics and tournament format
+
 │   ├── players/       # Player profiles and performance statistics
+
 │   ├── qualification/ # Qualification process and standings
+
 │   ├── teams/         # Team profiles and historical data
+
 │   └── venues/        # Host cities and stadium information
+
 ├── analytics/         # Data analysis scripts and models
+
 ├── dashboard/         # Interactive visualization components
+
 ├── llm/               # Language model integration for match analysis
+
 ├── sql/              # SQL queries for data extraction and analysis
+
 ├── README.md         # Project documentation
+
 └── todo.md           # Project task tracking
 
 
